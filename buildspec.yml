@@ -29,7 +29,7 @@
 #   #   - **/*
 
 version: 0.2
-pharse: 
+phases:
 	install:
 		runtime-version:
 			nodejs : 12
